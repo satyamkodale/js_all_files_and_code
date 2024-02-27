@@ -1,0 +1,132 @@
+00:00 Introduction
+01:54 Ch1: Introduction to JavaScript
+32:39 Ch1: Practise Exercise
+35:26 Ch2: Numbers & Strings
+1:20:10 Ch2: Practise Exercise
+1:27:27 Ch3: Javascript with HTML & CSS
+2:30:08 Ch3: Practise Exercise
+2:51:21 Ch4: Variables
+3:36:45 Ch4: Practise Exercise
+3:44:06 Project 1: Calculator
+4:01:45 Ch5: if-else & Boolean
+5:27:07 Ch5: Practise Exercise
+5:36:29 Ch6: Functions
+6:24:53 Ch6: Practise Exercise
+6:33:02 Ch7: Objects
+7:20:07 Ch7: Practise Exercise
+7:33:36 Ch8: JSON, Local storage, Date & DOM
+8:41:11 Ch8: Practise Exercise
+8:59:09 Ch9: Arrays & Loops
+10:04:28 Ch9: Practise Exercise
+10:27:08 Project 3: Todo App
+11:05:10 Ch10: Advance Functions
+12:06:11 Ch10: Practise Exercise
+12:23:09 Project 4: Myntra Functional Clone
+ES6+ Features:
+
+Arrow functions
+Destructuring
+Spread/rest operators
+Template literals
+Classes
+Promises and Async/Await:
+State Management in JavaScript:
+Functional Programming Concepts:
+Module Systems:
+Debugging Techniques:
+Testing JavaScript Applications:
+Functional Component Lifecycle:
+Introduction to JavaScript:
+
+
+==========================================================
+Understand the basics of JavaScript, including syntax, variables, and data types.
+Numbers & Strings:
+
+Dive deeper into numerical and string data types in JavaScript.
+Variables:
+
+Learn about variable declaration, assignment, and scoping rules in JavaScript.
+if-else & Boolean:
+
+Explore conditional statements and boolean logic in JavaScript.
+Functions:
+
+Understand function declarations, expressions, and their usage.
+Objects:
+
+Learn about JavaScript objects, properties, and methods.
+JSON, Local storage, Date & DOM:
+
+Explore JSON handling, local storage, date manipulation, and DOM manipulation.
+Arrays & Loops:
+
+Understand JavaScript arrays and different looping techniques.
+Arrow functions:
+
+Learn the syntax and usage of arrow functions, a concise way to write functions in JavaScript.
+Destructuring:
+
+Understand destructuring syntax, which allows you to extract data from arrays and objects in a more concise manner.
+Spread/rest operators:
+
+Explore the spread and rest syntax, which are useful for manipulating arrays and objects.
+Template literals:
+
+Learn about template literals, a convenient way to concatenate strings and embed expressions in JavaScript.
+Classes:
+
+Understand the class syntax in JavaScript, which provides a cleaner way to define objects and their behavior.
+Promises and Async/Await:
+
+Dive into asynchronous JavaScript programming using Promises and Async/Await syntax.
+State Management in JavaScript:
+
+Learn about managing state in JavaScript applications using variables, objects, and closures.
+Functional Programming Concepts:
+
+Explore functional programming concepts such as immutability, pure functions, and higher-order functions.
+Module Systems:
+
+Understand how module systems work in JavaScript, such as CommonJS and ES modules.
+Debugging Techniques:
+
+Gain proficiency in debugging tools and techniques for identifying and fixing issues in JavaScript code.
+Testing JavaScript Applications:
+
+Learn about testing frameworks and methodologies for testing JavaScript code.
+Functional Component Lifecycle:
+
+Understand the lifecycle of functional components.
+
+
+
+
+ES6+ Features:
+
+Arrow functions
+Destructuring
+Spread/rest operators
+Template literals
+Classes
+Promises and Async/Await:
+
+Understanding asynchronous JavaScript programming using Promises and Async/Await syntax, which is crucial for handling asynchronous operations in React.
+State Management in JavaScript:
+
+Learn about managing state in JavaScript applications using variables, objects, and closures. Understanding state management concepts will help you grasp React's state management principles more effectively.
+Functional Programming Concepts:
+
+Explore functional programming concepts such as immutability, pure functions, and higher-order functions. These concepts are fundamental to modern JavaScript development and will enhance your understanding of React's functional approach.
+Module Systems:
+
+Understand how module systems work in JavaScript, such as CommonJS and ES modules. Modules are crucial for organizing and structuring code, which is beneficial when working with React.
+Debugging Techniques:
+
+Gain proficiency in debugging tools and techniques for identifying and fixing issues in JavaScript code. Debugging skills are essential for troubleshooting errors in React applications as well.
+Testing JavaScript Applications:
+
+Learn about testing frameworks and methodologies for testing JavaScript code, including unit testing with Jest and end-to-end testing with tools like Cypress or Selenium. Testing skills are transferable to React testing.
+Functional Component Lifecycle:
+
+Understand the lifecycle of functional components in React, including the useEffect hook and component re-rendering. While not covered explicitly, understanding functional component lifecycle is crucial for writing React components in the modern React ecosystem.
